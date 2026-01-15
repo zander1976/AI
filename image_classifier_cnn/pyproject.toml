@@ -1,0 +1,13 @@
+[project]
+name = "image"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "matplotlib>=3.9.4",
+    "pathlib>=1.0.1",
+    "rich>=14.2.0",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+]

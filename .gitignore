@@ -20,3 +20,12 @@ Thumbs.db
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Datasets
+data/
+
+# PyTorch / ML artifacts
+*.pt
+*.pth
+*.h5
+*.ckpt
+logs/
