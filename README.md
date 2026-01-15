@@ -20,4 +20,5 @@ A collection of AI and machine learning projects implemented in Python. Each pro
 
    ```bash
    cd <project_folder>
+   uv run main.py
 
