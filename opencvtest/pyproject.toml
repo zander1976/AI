@@ -1,0 +1,12 @@
+[project]
+name = "opencvtest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dlib>=20.0.0",
+    "matplotlib>=3.10.8",
+    "opencv-contrib-python>=4.13.0.90",
+    "opencv-python>=4.13.0.90",
+]
