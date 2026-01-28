@@ -29,3 +29,6 @@ data/
 *.h5
 *.ckpt
 logs/
+
+# Rust build artifacts
+target/
